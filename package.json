@@ -1,6 +1,6 @@
 {
   "name": "chaetodon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": ":tropical_fish: A color set generator for adog projects",
   "main": "lib/import.js",
   "scripts": {
